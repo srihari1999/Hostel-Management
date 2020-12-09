@@ -52,7 +52,7 @@
         <p class=" w3l-register-p">Don't have an account?<a href="signup.php" class="register"> Sign up</a></p>
     </div>
     <footer>
-      <font color="white">  <b> Design by <a href="https://github.com/VishakAmin">Vishak Amin</a></b> </font>
+      <font color="white">  <b> Design by <a href="https://github.com/srihari1999">Srihari B</a></b> </font>
     </footer>
 
 </body>
